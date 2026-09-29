@@ -1,3 +1,2 @@
 User-agent: *
 Allow: /
-Sitemap: https://us-ambient-soundscape.enjoy-onepage.com/sitemap.xml
